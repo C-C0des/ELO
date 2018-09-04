@@ -1,0 +1,37 @@
+body{
+    margin: auto;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+
+#alignment{
+   width: 960px;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+
+#divleft{
+    float:left;
+    width:50%;
+    margin-bottom: 15px;
+}
+
+hr{
+    clear:both;
+}
+
+#divfull {
+    clear:both;
+    overflow: auto;
+  }
+
+  hr{
+      color:black;
+  }
+  
+
